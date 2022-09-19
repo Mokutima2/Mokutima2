@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me ...
+- 📫 You can reach me [here](https://github.com/Mokutima2/)
 
 <!---
 Mokutima2/Mokutima2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
